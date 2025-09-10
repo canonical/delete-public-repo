@@ -1,6 +1,6 @@
 settings:
     # Jira project key to create the issue in
-  jira_project_key: "MTC"
+  jira_project_key: "JIRA"
   
   # Dictionary mapping GitHub issue status to Jira issue status
   status_mapping:
@@ -23,6 +23,4 @@ settings:
   # (Optional) (Default: true) Synchronize comments from GitHub to Jira
   sync_comments: true
   
-  # (Optional) (Default: None) Parent Epic key to link the issue to
-  epic_key: "MTC-296"
       
