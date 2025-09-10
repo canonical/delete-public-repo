@@ -18,6 +18,7 @@ settings:
   
   # (Optional) (Default: true) Synchronize issue description from GitHub to Jira
   sync_description: true
+  add_gh_synced_label: true
   
   # (Optional) (Default: true) Synchronize comments from GitHub to Jira
   sync_comments: true
